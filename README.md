@@ -1,2 +1,3 @@
-# new
-Will the readme also goes to main
+#Learning version control
+## Learned Git
+## Learning GitHub
